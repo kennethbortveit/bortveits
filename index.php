@@ -3,11 +3,11 @@
 
 <html>
 <head>
-<title>Bortveit's</title>
-<meta charset="utf8" />
+	<title>Bortveit's</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
 </head>
 <body>
-<h1>Bortveit's</h1>
+<script type="text/javascript" source="js/angular.min.js"></script>
 
 </body>
 
