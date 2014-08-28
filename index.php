@@ -19,6 +19,10 @@
 </head>
 <body>
 <top-bar></top-bar>
+<script>
+console.log("And it works?");
+console.log("Guess so.");
+</script>
 <!--
 <nav class="navbar navbar-default" role="navigation">
 	<div class="container-fluid">
